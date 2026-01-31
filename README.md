@@ -68,7 +68,7 @@
 <p align="center">
   <!-- GitHub Stats Card -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=matteocacciotti&show_icons=true&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=matteocacciotti&show_icons=true&theme=tokyonight&hide_border=true" 
     alt="GitHub Stats" 
     height="165"
   />
